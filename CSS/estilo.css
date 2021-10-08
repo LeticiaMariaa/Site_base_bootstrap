@@ -1,8 +1,8 @@
 body{
-    background-color: coral;
+    background-color: rgb(32, 165, 226);
 }
 .col{
-    background-color: rgb(243, 195, 149);
+    background-color: rgb(255, 255, 255);
 }
 .container{
     margin-top:20px;
